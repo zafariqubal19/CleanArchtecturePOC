@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nmJ+8P9i49OwPznHTw+tud5p0ZMUyTr2cXjoSNcLIOI=",
+  "Source": "Mena.Poc.API",
+  "BasePath": "_content/Mena.Poc.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

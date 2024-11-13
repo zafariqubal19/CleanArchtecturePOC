@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|solutionrelative:mena.poc.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5F2BB7-9EAD-421A-B96C-81EF2D3939E6}|Mena.Poc.Persistance\\Mena.Poc.Persistance.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.persistance\\extensions\\menapoccontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5F2BB7-9EAD-421A-B96C-81EF2D3939E6}|Mena.Poc.Persistance\\Mena.Poc.Persistance.csproj|solutionrelative:mena.poc.persistance\\extensions\\menapoccontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.application\\service\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|solutionrelative:mena.poc.application\\service\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5F2BB7-9EAD-421A-B96C-81EF2D3939E6}|Mena.Poc.Persistance\\Mena.Poc.Persistance.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.persistance\\dataaccess\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5F2BB7-9EAD-421A-B96C-81EF2D3939E6}|Mena.Poc.Persistance\\Mena.Poc.Persistance.csproj|solutionrelative:mena.poc.persistance\\dataaccess\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|solutionrelative:mena.poc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.application\\interfaces\\ibooksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|solutionrelative:mena.poc.application\\interfaces\\ibooksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PocDb/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.application\\dtomodels\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|solutionrelative:mena.poc.application\\dtomodels\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5F2BB7-9EAD-421A-B96C-81EF2D3939E6}|Mena.Poc.Persistance\\Mena.Poc.Persistance.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.persistance\\dataaccess\\menapocdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5F2BB7-9EAD-421A-B96C-81EF2D3939E6}|Mena.Poc.Persistance\\Mena.Poc.Persistance.csproj|solutionrelative:mena.poc.persistance\\dataaccess\\menapocdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|solutionrelative:mena.poc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BB5237-4B31-42AF-9F87-9999DE5E2272}|Mena.Poc.API\\Mena.Poc.API.csproj|solutionrelative:mena.poc.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|solutionrelative:mena.poc.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3097BA1-894F-449B-91C4-7DF04C8AE015}|Mena.Poc.Infrastructure\\Mena.Poc.Infrastructure.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.infrastructure\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3097BA1-894F-449B-91C4-7DF04C8AE015}|Mena.Poc.Infrastructure\\Mena.Poc.Infrastructure.csproj|solutionrelative:mena.poc.infrastructure\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\interfaces\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\interfaces\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3097BA1-894F-449B-91C4-7DF04C8AE015}|Mena.Poc.Infrastructure\\Mena.Poc.Infrastructure.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3097BA1-894F-449B-91C4-7DF04C8AE015}|Mena.Poc.Infrastructure\\Mena.Poc.Infrastructure.csproj|solutionrelative:mena.poc.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\interfaces\\dataacces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\interfaces\\dataacces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\models\\books\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\models\\books\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.application\\dtomodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|solutionrelative:mena.poc.application\\dtomodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4CAE4A-109A-4125-B557-6CC673426392}|Mena.Poc.Application\\Mena.Poc.Application.csproj|solutionrelative:mena.poc.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3097BA1-894F-449B-91C4-7DF04C8AE015}|Mena.Poc.Infrastructure\\Mena.Poc.Infrastructure.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3097BA1-894F-449B-91C4-7DF04C8AE015}|Mena.Poc.Infrastructure\\Mena.Poc.Infrastructure.csproj|solutionrelative:mena.poc.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\mena.poc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\mena.poc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|d:\\pocs\\mana.poc 2\\mana.poc\\mena.poc.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1C61-25D4-4E65-9D8D-F615989D67D9}|Mena.Poc.Domain\\Mena.Poc.Domain.csproj|solutionrelative:mena.poc.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.API\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Mena.Poc.API\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:31:03.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Service\\BooksService.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Application\\Service\\BooksService.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Service\\BooksService.cs",
+              "RelativeToolTip": "Mena.Poc.Application\\Service\\BooksService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:23:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Infrastructure\\Repository\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Infrastructure\\Repository\\BooksRepository.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Infrastructure\\Repository\\BooksRepository.cs",
+              "RelativeToolTip": "Mena.Poc.Infrastructure\\Repository\\BooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:17:34.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Mena.Poc.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:42:16.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBooksServices.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Interfaces\\IBooksServices.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Application\\Interfaces\\IBooksServices.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Interfaces\\IBooksServices.cs",
+              "RelativeToolTip": "Mena.Poc.Application\\Interfaces\\IBooksServices.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:29:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Mena.Poc.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:43:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Application\\Service\\UserService.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Service\\UserService.cs",
+              "RelativeToolTip": "Mena.Poc.Application\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:24:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\Program.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.API\\Program.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\Program.cs",
+              "RelativeToolTip": "Mena.Poc.API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:46:48.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Persistance\\DataAccess\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Persistance\\DataAccess\\GenericRepository.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Persistance\\DataAccess\\GenericRepository.cs",
+              "RelativeToolTip": "Mena.Poc.Persistance\\DataAccess\\GenericRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:28:12.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenaPocContextExtensions.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Persistance\\Extensions\\MenaPocContextExtensions.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Persistance\\Extensions\\MenaPocContextExtensions.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Persistance\\Extensions\\MenaPocContextExtensions.cs",
+              "RelativeToolTip": "Mena.Poc.Persistance\\Extensions\\MenaPocContextExtensions.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:39:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Mena.Poc.API\\appsettings.json",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\appsettings.json",
+              "RelativeToolTip": "Mena.Poc.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T13:03:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\DtoModels\\Books.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Application\\DtoModels\\Books.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\DtoModels\\Books.cs",
+              "RelativeToolTip": "Mena.Poc.Application\\DtoModels\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:16:18.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PocDb/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-12T11:36:43.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenaPocDbContext.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Persistance\\DataAccess\\MenaPocDbContext.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Persistance\\DataAccess\\MenaPocDbContext.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Persistance\\DataAccess\\MenaPocDbContext.cs",
+              "RelativeToolTip": "Mena.Poc.Persistance\\DataAccess\\MenaPocDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:32:51.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Interfaces\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Interfaces\\Repository\\IBookRepository.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Interfaces\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Mena.Poc.Domain\\Interfaces\\Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:38:30.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Models\\Books\\Books.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Models\\Books\\Books.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Models\\Books\\Books.cs",
+              "RelativeToolTip": "Mena.Poc.Domain\\Models\\Books\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:12:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\DtoModels\\User.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Application\\DtoModels\\User.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\DtoModels\\User.cs",
+              "RelativeToolTip": "Mena.Poc.Application\\DtoModels\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:10:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mena.Poc.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:04:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Application\\Class1.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Application\\Class1.cs",
+              "RelativeToolTip": "Mena.Poc.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:23:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Interfaces\\DataAcces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Interfaces\\DataAcces\\IGenericRepository.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Interfaces\\DataAcces\\IGenericRepository.cs",
+              "RelativeToolTip": "Mena.Poc.Domain\\Interfaces\\DataAcces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:37:30.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Models\\User\\User.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Models\\User\\User.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Models\\User\\User.cs",
+              "RelativeToolTip": "Mena.Poc.Domain\\Models\\User\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:41:26.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Mena.Poc.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:26:19.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mena.Poc.Domain.csproj",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Mena.Poc.Domain.csproj",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Mena.Poc.Domain.csproj",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Mena.Poc.Domain.csproj",
+              "RelativeToolTip": "Mena.Poc.Domain\\Mena.Poc.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T11:12:52.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Mena.Poc.Domain\\Class1.cs",
+              "ToolTip": "D:\\POCs\\Mana.Poc 2\\Mana.Poc\\Mena.Poc.Domain\\Class1.cs",
+              "RelativeToolTip": "Mena.Poc.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:10:51.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.deps.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.runtimeconfig.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.AssemblyReference.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfoInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfo.cs
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.598E50C3.Up2Date
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\refint\Mena.Poc.Persistance.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.genruntimeconfig.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\ref\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.AssemblyReference.cache
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfo.cs
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\refint\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.deps.json
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.runtimeconfig.json
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.598E50C3.Up2Date
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.genruntimeconfig.cache
+D:\POCs\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\ref\Mena.Poc.Persistance.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.deps.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.runtimeconfig.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.AssemblyReference.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfoInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfo.cs
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.598E50C3.Up2Date
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\refint\Mena.Poc.Persistance.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.genruntimeconfig.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\ref\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.deps.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.runtimeconfig.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.AssemblyReference.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.AssemblyInfo.cs
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.598E50C3.Up2Date
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\refint\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\Mena.Poc.Persistance.genruntimeconfig.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Persistance\obj\Debug\net8.0\ref\Mena.Poc.Persistance.dll

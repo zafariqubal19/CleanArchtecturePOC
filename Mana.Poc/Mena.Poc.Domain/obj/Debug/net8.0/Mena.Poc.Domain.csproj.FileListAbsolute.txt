@@ -1,0 +1,44 @@
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.deps.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfoInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfo.cs
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\refint\Mena.Poc.Domain.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\ref\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.deps.json
+D:\POCs\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfo.cs
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\refint\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\ref\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.deps.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfoInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfo.cs
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\refint\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\ref\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.deps.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.AssemblyInfo.cs
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\refint\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Domain\obj\Debug\net8.0\ref\Mena.Poc.Domain.dll

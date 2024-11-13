@@ -1,0 +1,68 @@
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.deps.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfo.cs
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.28C941F7.Up2Date
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\refint\Mena.Poc.Infrastructure.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\ref\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.AssemblyReference.cache
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfo.cs
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\refint\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.deps.json
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.28C941F7.Up2Date
+D:\POCs\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\ref\Mena.Poc.Infrastructure.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.deps.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfo.cs
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.28C941F7.Up2Date
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\refint\Mena.Poc.Infrastructure.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\ref\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.deps.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.AssemblyReference.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.AssemblyInfo.cs
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.28C941F7.Up2Date
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\refint\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.Infrastructure\obj\Debug\net8.0\ref\Mena.Poc.Infrastructure.dll

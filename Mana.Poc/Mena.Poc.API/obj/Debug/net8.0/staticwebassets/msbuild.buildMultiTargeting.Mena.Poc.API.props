@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mena.Poc.API.props" />
+</Project>

@@ -1,0 +1,317 @@
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.exe
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.deps.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.runtimeconfig.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.AssemblyReference.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfoInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfo.cs
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.CoreCompileInputs.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.Mena.Poc.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Mena.Poc.API.props
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mena.Poc.API.props
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mena.Poc.API.props
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\scopedcss\bundle\Mena.Poc.API.styles.css
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.9E6AD454.Up2Date
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\refint\Mena.Poc.API.dll
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.pdb
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.genruntimeconfig.cache
+C:\Users\zafar.iqubal\source\repos\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\ref\Mena.Poc.API.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.AssemblyReference.cache
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfo.cs
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.MvcApplicationPartsAssemblyInfo.cache
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\refint\Mena.Poc.API.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.pdb
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.Development.json
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.json
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.exe
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.deps.json
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.runtimeconfig.json
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.pdb
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\AutoMapper.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Core.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Application.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Application.pdb
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.Mena.Poc.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Mena.Poc.API.props
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mena.Poc.API.props
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mena.Poc.API.props
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\scopedcss\bundle\Mena.Poc.API.styles.css
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.9E6AD454.Up2Date
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.genruntimeconfig.cache
+D:\POCs\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\ref\Mena.Poc.API.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.exe
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.deps.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.runtimeconfig.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Application.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Application.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.AssemblyReference.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfoInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfo.cs
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.Mena.Poc.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Mena.Poc.API.props
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mena.Poc.API.props
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mena.Poc.API.props
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\scopedcss\bundle\Mena.Poc.API.styles.css
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.9E6AD454.Up2Date
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\refint\Mena.Poc.API.dll
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.pdb
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.genruntimeconfig.cache
+C:\Users\siddhant.gulati\Downloads\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\ref\Mena.Poc.API.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.Development.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\appsettings.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.exe
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.deps.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.runtimeconfig.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.API.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\AutoMapper.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Core.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Application.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Application.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Infrastructure.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Persistance.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\bin\Debug\net8.0\Mena.Poc.Domain.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.AssemblyReference.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfoInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.AssemblyInfo.cs
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.csproj.CoreCompileInputs.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.MvcApplicationPartsAssemblyInfo.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.Mena.Poc.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Mena.Poc.API.props
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mena.Poc.API.props
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mena.Poc.API.props
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\scopedcss\bundle\Mena.Poc.API.styles.css
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.9E6AD454.Up2Date
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\refint\Mena.Poc.API.dll
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.pdb
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\Mena.Poc.API.genruntimeconfig.cache
+D:\POCs\Mana.Poc 2\Mana.Poc\Mena.Poc.API\obj\Debug\net8.0\ref\Mena.Poc.API.dll
